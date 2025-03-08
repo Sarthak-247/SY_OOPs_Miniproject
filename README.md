@@ -44,11 +44,13 @@ File Structure
 ├── project.java   # Main Java source file containing the application code.
 ├── stock.txt      # File used for saving and loading stock data (created automatically if not present).
 └── README.md      # This file.
+
+
 License
 This project is open source and free to use. Feel free to modify and distribute it as needed.
 
 Author
-[Your Name or Organization]
+Sarthak Deochake
 
 Acknowledgments
 This project demonstrates basic object-oriented programming (OOP) concepts in Java while providing a practical example of inventory management.
